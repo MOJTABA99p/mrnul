@@ -8,3 +8,4 @@ mutagen
 gtts
 tqdm
 rubika
+urllib3
